@@ -64,6 +64,19 @@
           <sub><b>Bennykillua</b></sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/samuelbarrionuevo" target="_blank" rel="noopener noreferrer">
+          <img 
+            src="https://avatars.githubusercontent.com/u/67695793?v=4"
+            width="85" 
+            alt="samuelbarrionuevo"
+          />
+          <br />
+          <sub><b>Bennykillua</b></sub>
+        </a>
+      </td>
+      
+      
     </tr>   
   </tbody>
 </table>
