@@ -67,8 +67,8 @@
       <td align="center">
         <a href="https://github.com/samuelbarrionuevo" target="_blank" rel="noopener noreferrer">
           <img 
-            src="https://avatars.githubusercontent.com/u/67695793?v=4"
-            width="85" 
+            src="https://i.pinimg.com/564x/7c/9f/58/7c9f5817bbccff7e97506c268123b120.jpg"
+            width="60" 
             alt="samuelbarrionuevo"
           />
           <br />
