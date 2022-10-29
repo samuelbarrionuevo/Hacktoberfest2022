@@ -72,7 +72,7 @@
             alt="samuelbarrionuevo"
           />
           <br />
-          <sub><b>Bennykillua</b></sub>
+          <sub><b>samuelbarrionuevo</b></sub>
         </a>
       </td>
       
